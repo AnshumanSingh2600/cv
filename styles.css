@@ -1,6 +1,8 @@
 
-   body {
+body {
     background-color: #eaf6f6;
+    font-family: 'Shantell Sans', cursive;
+
 }
 
 hr{
@@ -13,9 +15,14 @@ border-width: 5px;
 }
 h1 {
    color: #66bfbf;
+   font-family: 'Shantell Sans', cursive;
+}   
 
-}
 h3 {
   color: #66bfbf;
 
+}
+.intro{
+    font-family: 'Shantell Sans', cursive;
+    font-weight: bold;
 }
