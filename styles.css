@@ -2,7 +2,7 @@
 body {
     background-color:#618685;
     font-family: 'Shantell Sans', cursive;
-
+  margin: 0;
 }
 
 hr{
@@ -14,15 +14,29 @@ hr{
 border-width: 5px;
 }
 h1 {
-   color: #66bfbf;
+   color:red;
    
 }   
 
 h3 {
-  color: #66bfbf;
-
+color: white;
 }
 .intro{
    text-align: center;
     font-weight: bold;
+}
+p{
+  color: white;
+}
+li{ color: white;
+
+}
+a{
+  color: rgb(170, 115, 115);
+}
+td{
+  color: wheat;
+}
+th{
+  color: white;
 }
